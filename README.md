@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Arthur! 👋
 
 I'm a Front-End Web Developer who is passionate about transforming ideas into reality using coding skills. I've spent the past year and a half honing my skills in front-end web development, specializing in Reactjs. I'm driven by curiosity and always looking for opportunities to learn and grow.
 
