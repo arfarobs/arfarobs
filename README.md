@@ -17,7 +17,7 @@ I'm a Front-End Web Developer who is passionate about transforming ideas into re
 
 ## 📈 My GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=arfarobs&show_icons=true
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arfarobs&show_icons=true)
 
 
 ## 🎯 Latest Projects
