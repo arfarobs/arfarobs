@@ -1,6 +1,6 @@
 # Hello, I'm Arthur! 👋
 
-I'm a Front-End Web Engineer who is passionate about transforming ideas into reality using coding skills. I've spent the past year and a half honing my skills in front-end web development, specializing in Reactjs. I'm driven by curiosity and always looking for opportunities to learn and grow.
+I'm a Front-End Web Engineer who is passionate about transforming ideas into reality using coding skills. I've spent the past two years honing my skills in front-end web development, specializing in Reactjs. I'm driven by curiosity and always looking for opportunities to learn and grow.
 
 - 🌱 Currently learning: Back-End Development (Node.js Express.js SQL).
 - 🔭 Working on: My portfolio website and refactoring my portfolio projects.
