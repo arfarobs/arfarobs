@@ -21,7 +21,7 @@ I'm a Front-End Web Engineer who is passionate about transforming ideas into rea
 
 ## 🎯 Latest Projects
 
-- **Audiophile**: A responsive e-commerce application. It is a small e-commerce website for audio equipment. The user should be able to view items, add them to a cart, purchase items, and receive an automatic confirmation email after purchasing. This application has both client-side and server-side form validation. I learned a lot about testing, Google Firebase, and Node.js when building this application. Built with HTML, CSS, JavaScript, React, Redux Toolkit, Google Firebase, Express.js, EmailJS, React Router Dom, and multiple libraries for testing such as Jest, RTL, etc. For more information, please view the project's readme in the repository. [Live Version](#https://audiophile-aef599.netlify.app/) | [Source Code](#https://github.com/arfarobs/audiophile)
+- **Audiophile**: A responsive e-commerce application. It is a small e-commerce website for audio equipment. The user should be able to view items, add them to a cart, purchase items, and receive an automatic confirmation email after purchasing. This application has both client-side and server-side form validation. I learned a lot about testing, Google Firebase, and Node.js when building this application. Built with HTML, CSS, JavaScript, React, Redux Toolkit, Google Firebase, Express.js, EmailJS, React Router Dom, and multiple libraries for testing such as Jest, RTL, etc. For more information, please view the project's readme in the repository.
 
 Stay tuned for more projects, I am in the process of refactoring some of my older works.
 
